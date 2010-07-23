@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = "sox-ruby"
-  s.version     = 1.0.0
+  s.version     = 1.0
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Colin Mitchell"]
   s.email       = ["colin@muffinlabs.com"]
